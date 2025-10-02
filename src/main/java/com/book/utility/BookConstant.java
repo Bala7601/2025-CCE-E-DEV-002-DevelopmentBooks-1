@@ -10,8 +10,7 @@ public class BookConstant {
 
 	public static final List<String> bookCatalog = Arrays.asList("Clean Code", "Clean Coder", "Clean Architecture",
 			"Test Driven Development", "Working effectively with Legacy Code");
-
-	public static final integer a1=1000;
+	public static final Integer a1=1000;
 	public static final double basePrice = 50.0;
 
 	public static final String Basket_Empty = "Book Basket is empty, Please add some books";
@@ -36,4 +35,5 @@ public class BookConstant {
 	public static final double discount_FiveDifferentBooks = 0.75;
 
 }
+
 
